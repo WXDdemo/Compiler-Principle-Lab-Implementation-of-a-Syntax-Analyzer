@@ -1,1 +1,1 @@
-# Compiler-Principle-Lab-Implementation-of-a-Syntax-Analyzer
+这是编译原理实验语法分析程序的实现。
